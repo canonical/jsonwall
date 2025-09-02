@@ -1,5 +1,3 @@
-// SPDX-License-Identifier: Apache-2.0
-
 package jsonwall_test
 
 import (
